@@ -1,0 +1,26 @@
+ <!doctype html>
+            
+            <html lang="en">
+            <head>
+              <meta charset="utf-8">
+              <title>box demo </title>
+       <style>
+div{
+    background-color: rgba(171, 96, 241, 0.868);
+    width: 500px;
+    height: 200px;
+}
+       </style>
+    
+            </head>
+            
+            <body>
+             <div id="box1"><p>text stuff</p></div>
+             <div id="box1"><p>text stuff</p></div>
+             <div id="box1"><p>text stuff</p></div>
+             <div id="box1"><p>text stuff</p></div>
+            </body>
+
+           
+            </html>   
+
